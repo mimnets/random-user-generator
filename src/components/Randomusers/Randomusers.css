@@ -1,0 +1,14 @@
+.user-container{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid ghostwhite;
+    border-radius: 20px;
+    background-color: beige;
+    align-items: center;
+}
+h1{
+    color: wheat;;
+}
