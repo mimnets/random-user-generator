@@ -23,7 +23,7 @@ const User = (props) => {
             {location.state}, {location.country}
             </small>
             <br></br>
-            <button type='button' onClick={()=> window.location.reload(false)} className="btn">Generate</button>
+            <button type='button' onClick={()=> window.location.reload(false)} className="btn" title='Click to generate random user.'>Generate</button>
         </div>
     );
 };

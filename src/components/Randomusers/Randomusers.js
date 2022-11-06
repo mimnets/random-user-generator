@@ -14,7 +14,8 @@ const Randomusers = () => {
 
     return (
         <div>
-            <h1>Random User Generator</h1>
+            <h1><a href="https://www.linkedin.com/in/mdmonirulislammonir/" target="_blank" rel="noopener noreferrer" title='This site is built with React JS. By - Monirul Islam'>Random User Generator</a></h1>
+            
 
             <div className='user-container'>
             {
